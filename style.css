@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.container-fluid .nav-bar .logo span {
+  font-size: 2rem;
+  color: red;
+}
+
+.container .body .left .top .btn {
+  width: 200px;
+}
+.container .body .right {
+  background: url(asset/me.jpeg) no-repeat center center;
+  background-size: cover;
+}/*# sourceMappingURL=style.css.map */
